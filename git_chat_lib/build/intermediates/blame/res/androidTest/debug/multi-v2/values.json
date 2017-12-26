@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\androidDemo\\git_chat\\git_chat_lib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\androidDemo\\git_chat\\git_chat_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,396",
+                        "endLines": "2,9,12",
+                        "endColumns": "49,12,12",
+                        "endOffsets": "100,391,551"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\github\\git_chat\\git_chat_lib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\github\\git_chat\\git_chat_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,396",
+                        "endLines": "2,9,12",
+                        "endColumns": "49,12,12",
+                        "endOffsets": "100,391,551"
+                    }
+                }
+            ]
+        }
+    ]
+}
